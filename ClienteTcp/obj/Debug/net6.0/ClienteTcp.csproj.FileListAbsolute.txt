@@ -1,0 +1,30 @@
+D:/descargas/clientettcp consola/ClienteTcp/obj/Debug/net6.0/ClienteTcp.csproj.AssemblyReference.cache
+D:/descargas/clientettcp consola/ClienteTcp/obj/Debug/net6.0/ClienteTcp.GeneratedMSBuildEditorConfig.editorconfig
+D:/descargas/clientettcp consola/ClienteTcp/obj/Debug/net6.0/ClienteTcp.AssemblyInfoInputs.cache
+D:/descargas/clientettcp consola/ClienteTcp/obj/Debug/net6.0/ClienteTcp.AssemblyInfo.cs
+D:/descargas/clientettcp consola/ClienteTcp/obj/Debug/net6.0/ClienteTcp.csproj.CoreCompileInputs.cache
+D:/descargas/clientettcp consola/ClienteTcp/bin/Debug/net6.0/ClienteTcp.exe
+D:/descargas/clientettcp consola/ClienteTcp/bin/Debug/net6.0/ClienteTcp.deps.json
+D:/descargas/clientettcp consola/ClienteTcp/bin/Debug/net6.0/ClienteTcp.runtimeconfig.json
+D:/descargas/clientettcp consola/ClienteTcp/bin/Debug/net6.0/ClienteTcp.dll
+D:/descargas/clientettcp consola/ClienteTcp/bin/Debug/net6.0/ClienteTcp.pdb
+D:/descargas/clientettcp consola/ClienteTcp/obj/Debug/net6.0/ClienteTcp.dll
+D:/descargas/clientettcp consola/ClienteTcp/obj/Debug/net6.0/refint/ClienteTcp.dll
+D:/descargas/clientettcp consola/ClienteTcp/obj/Debug/net6.0/ClienteTcp.pdb
+D:/descargas/clientettcp consola/ClienteTcp/obj/Debug/net6.0/ClienteTcp.genruntimeconfig.cache
+D:/descargas/clientettcp consola/ClienteTcp/obj/Debug/net6.0/ref/ClienteTcp.dll
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/bin/Debug/net6.0/ClienteTcp
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/bin/Debug/net6.0/ClienteTcp.deps.json
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/bin/Debug/net6.0/ClienteTcp.runtimeconfig.json
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/bin/Debug/net6.0/ClienteTcp.dll
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/bin/Debug/net6.0/ClienteTcp.pdb
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/obj/Debug/net6.0/ClienteTcp.csproj.AssemblyReference.cache
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/obj/Debug/net6.0/ClienteTcp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/obj/Debug/net6.0/ClienteTcp.AssemblyInfoInputs.cache
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/obj/Debug/net6.0/ClienteTcp.AssemblyInfo.cs
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/obj/Debug/net6.0/ClienteTcp.csproj.CoreCompileInputs.cache
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/obj/Debug/net6.0/ClienteTcp.dll
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/obj/Debug/net6.0/refint/ClienteTcp.dll
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/obj/Debug/net6.0/ClienteTcp.pdb
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/obj/Debug/net6.0/ClienteTcp.genruntimeconfig.cache
+/Users/danisharif/Desktop/Ej.Guia.Threads/ClienteTcp/obj/Debug/net6.0/ref/ClienteTcp.dll
